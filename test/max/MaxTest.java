@@ -5,13 +5,15 @@ import junit.framework.TestCase;
 public class MaxTest extends TestCase {
 
     /*
-
     Test cases
     Input: a = 4, b = 6
     Forventet output: 6
 
     Input: a = 4, b = 7
     Forventet output: 7
+
+    Input: a = 10, b = 3
+    Forventet output: 10
 
      */
 
