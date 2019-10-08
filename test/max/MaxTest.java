@@ -10,6 +10,9 @@ public class MaxTest extends TestCase {
     Input: a = 4, b = 6
     Forventet output: 6
 
+    Input: a = 4, b = 7
+    Forventet output: 7
+
      */
 
     public void testMaxOf4And6Equals6() {
