@@ -41,7 +41,7 @@ public class MaxTest extends TestCase {
         assertEquals(7, result);
     }
 
-    public void testMaxOf10And3Equals3() {
+    public void testMaxOf10And3Equals10() {
         // Input
         int a = 10;
         int b = 3;
